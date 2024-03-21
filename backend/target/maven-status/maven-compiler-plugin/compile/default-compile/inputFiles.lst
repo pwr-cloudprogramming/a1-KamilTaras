@@ -1,0 +1,14 @@
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/service/GameService.java
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/model/GameStatus.java
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/controller/GameController.java
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/TicTacToeApplication.java
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/model/Game.java
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/model/TicToe.java
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/exception/InvalidGameException.java
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/model/Player.java
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/exception/InvalidParamException.java
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/model/GamePlay.java
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/config/WebsocketConfiguration.java
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/exception/NotFoundException.java
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/controller/dto/ConnectRequest.java
+/home/ec2-user/environment/tic-tac-toe/backend/src/main/java/com/kamil/storage/GameStorage.java
