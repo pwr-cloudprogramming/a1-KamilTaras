@@ -1,4 +1,4 @@
-const url = 'http://44.202.185.3:8080';
+const url = 'http://localhost:8080';
 let stompClient;
 let gameId;
 let playerType;
