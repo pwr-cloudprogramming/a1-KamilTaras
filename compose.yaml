@@ -1,14 +1,14 @@
 version: '2.0'
 services:
     frontend:
-        image: frontApp
+        image: myappfrontend
         build:
             context: frontend
             dockerfile: Dockerfile
         ports:
             - 8081:3000
     backend:
-        image: backApp
+        image: myappbackend
         build:
             context: backend
             dockerfile: Dockerfile

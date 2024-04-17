@@ -3,8 +3,6 @@ FROM maven:3.8.1-openjdk-11-slim AS builder
 WORKDIR /build
 COPY . .
 
-ARG ip
-RUN sed -i "s/localhost/$ip/g" /build/src/main/resources/static/js/socket_js.js
 
 RUN mvn clean package
 FROM openjdk:11-jre-slim
